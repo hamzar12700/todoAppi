@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+
+images {
+  /* height: 100%; */
+  width: 100%;
+}
+
+
+.navbar{
+  width: 77%;
+  margin: 0 auto;
+}
+
+.button{
+border: 1px solid black;
+padding: 10px 15px;
+margin-left: 10px;
+cursor: pointer;
+}
+
+h1{
+  font-size: 20px;
+  text-transform: capitalize;
+}
